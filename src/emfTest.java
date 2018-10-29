@@ -42,11 +42,8 @@ public class emfTest {
 	private static final Class Class = null;
 
 	public static void main(String[] args) {
-
-		
-		/*≤‚ ‘stereotype∫Õprofile
-		 * 
-		 * 
+		/*
+		 * ≤‚ ‘stereotype∫Õprofile 
 		 * */
 		Package package1=(Package) UMLFactory.eINSTANCE.create(UMLPackage.Literals.PACKAGE);
 		package1.setName("MyPackage111111111111111111");
@@ -127,31 +124,6 @@ public class emfTest {
 		property.setName("mp");
 		clazz.getOwnedAttributes().add(property);
 	//	System.out.println("datatype::"+property.getDatatype()+"   "+clazz.getOwnedAttributes());
-		
-//		for (int i=0;i<eList1.size();i++)
-//		{
-//			System.out.println(eList1.get(i));
-//		}
-//		for (int i=0;i<eList2.size();i++)
-//		{
-//			System.out.println(eList2.get(i));
-//		}
-//		for (int i=0;i<eList3.size();i++)
-//		{
-//			System.out.println(eList3.get(i));
-//		}
-//		for (int i=0;i<eList4.size();i++)
-//		{
-//			System.out.println(eList4.get(i));
-//		}
-//		for (int i=0;i<eList5.size();i++)
-//		{
-//			System.out.println(eList5.get(i));
-//		}
-//		for (int i=0;i<eList6.size();i++)
-//		{
-//			System.out.println(eList6.get(i));
-//		}
 //		Element el =(Element) UMLFactory.eINSTANCE.create(UMLPackage.Literals.ELEMENT.getEStructuralFeatures());
 //		System.out.println(el.s);
 //		System.out.println(clause.getClass().getName());
