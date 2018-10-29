@@ -1,0 +1,4 @@
+该项目主要包含：
+1. Eclipse Modeling Framework建模的常用jar包，里面涵盖了所有的UML元类的接口和实现类；
+2. 创建UML元素的一些基本用法和Stereotype的基本用法
+3. 一些测试代码
