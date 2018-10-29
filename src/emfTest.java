@@ -21,6 +21,7 @@ import org.eclipse.uml2.uml.Class;
 import org.eclipse.uml2.uml.Comment;
 import org.eclipse.uml2.uml.DataType;
 import org.eclipse.uml2.uml.Extension;
+import org.eclipse.uml2.uml.InstanceSpecification;
 import org.eclipse.uml2.uml.Lifeline;
 import org.eclipse.uml2.uml.Model;
 import org.eclipse.uml2.uml.Package;
@@ -41,11 +42,6 @@ public class emfTest {
 	private static final Class Class = null;
 
 	public static void main(String[] args) {
-	//	ResourceSet resourceSet = new ResourceSetImpl();
-		
-//		EPackage.Registry.INSTANCE.put("http://www.eclipse.org/uml2/5.0.0/UML",
-//				org.eclipse.uml2.uml.UMLPackage.eINSTANCE);
-
 
 		
 		/*≤‚ ‘stereotype∫Õprofile
@@ -60,7 +56,7 @@ public class emfTest {
 		
 		Package package3=(Package) UMLFactory.eINSTANCE.create(UMLPackage.Literals.PACKAGE);
 		package3.setName("MyPackage333333");
-		
+		InstanceSpecification instanceSpecification = (InstanceSpecification) UMLFactory.eINSTANCE.create(UMLPackage.Literals.INSTANCE_SPECIFICATION); 
 		package1.setNestingPackage(package2);
 		package3.setNestingPackage(package2);
 		
