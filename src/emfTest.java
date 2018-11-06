@@ -3,12 +3,6 @@ import org.eclipse.uml2.uml.internal.impl.ModelImpl;
 import org.eclipse.uml2.uml.internal.impl.UMLPackageImpl;
 import org.eclipse.uml2.uml.resource.UMLResource;
 import org.eclipse.uml2.uml.util.UMLUtil;
-
-import com.nomagic.uml2.ext.magicdraw.classes.mdkernel.Element;
-import com.nomagic.uml2.ext.magicdraw.classes.mdkernel.NamedElement;
-
-import java.awt.desktop.PrintFilesEvent;
-
 import org.eclipse.emf.common.util.EList;
 //import org.eclipse.emf.ecore.EPackage;
 import org.eclipse.emf.ecore.resource.ResourceSet;
@@ -95,11 +89,8 @@ public class emfTest {
 		clazz.setName("MyClazz");
 		profile.setNestingPackage(package1);
 		clazz.setPackage(profile);
-//		System.out.println(package1.getNestedPackages()+"          GGGGGGGGGGGGGGGGGGGG");
-//		System.out.println(package2.getNestedPackages()+"owerRRRRRRRRRRRRRRRR");
-		
 		Comment comment =(Comment) UMLFactory.eINSTANCE.create(UMLPackage.Literals.COMMENT);
-		EList eList=UMLPackage.Literals.ASSOCIATION.getEStructuralFeatures();
+		EList eList=UMLPackage.Literals.RELATIONSHIP.getEStructuralFeatures();
 	//	System.out.println(package1.getOwnedStereotypes());
 		comment.setBody("mycomment");
 		//dataType.setVisibility("public");

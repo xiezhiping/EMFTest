@@ -1,315 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-10">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/com.google.guava_15.0.0.v201403281430.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/com.nomagic.magicdraw.uml2_2.5.0.201712121520.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/com.xuzhong.transform.acceleo_1.0.2.201803211815.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/com.xuzhong.transform.atl_1.0.1.201803211806.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/com.xuzhong.transform.preprocess_1.0.0.201803211814.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/dom4j-1.6.1.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/edu.ufc.femtost.disc.sysml4modelica.codegen_1.0.0.201505270933.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/edu.ufc.femtost.disc.sysml4modelica.modelicametamodel_1.0.0.201505270933.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/edu.ufc.femtost.disc.sysml4modelica.papyrus.profile_1.0.0.201505270933.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/edu.ufc.femtost.disc.sysml4modelica.papyrus.sysml2modelica_1.0.0.201505270933.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/edu.ufc.femtost.disc.sysml4modelica.papyrus.sysml2problem_1.0.0.20171024.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/edu.ufc.femtost.disc.sysml4modelica.papyrus.ui_1.0.0.201505270933.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/edu.ufc.femtost.disc.sysml4modelica.problemmetamodel_1.0.0.201505270933.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/jackson-databind-2.0.5.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/javax.annotation_1.2.0.v201401042248.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/javax.inject_1.0.0.v20091030.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/junit-3.8.1.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/lpg.runtime.java_2.0.17.v201004271640.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/org.eclipse.acceleo.common_3.5.1.201409021433.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/org.eclipse.acceleo.engine_3.5.1.201409021433.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/org.eclipse.acceleo.model_3.5.1.201409021433.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/org.eclipse.acceleo.profiler_3.5.1.201409021433.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/org.eclipse.core.contenttype_3.4.200.v20140207-1251.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/org.eclipse.core.jobs_3.6.1.v20141014-1248.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/org.eclipse.core.resources_3.9.1.v20140825-1431.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/org.eclipse.core.runtime_3.10.0.v20140318-2214.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/org.eclipse.emf.codegen.ecore_2.10.2.v20150123-0452.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/org.eclipse.emf.codegen_2.10.0.v20150123-0452.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/org.eclipse.emf.common_2.10.1.v20150123-0348.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/org.eclipse.emf.ecore_2.10.2.v20150123-0348.jar" sourcepath="C:/Users/dell/AppData/Local/Temp/.org.sf.feeling.decompiler1532955891159/source/org.eclipse.emf.ecore.source_2.10.2.v20150123-1532955891346.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/org.eclipse.emf.edit.ui_2.10.2.v20150123-0452.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/org.eclipse.emf.edit_2.10.1.v20150123-0452.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/org.eclipse.emf.mapping.ecore2xml_2.8.0.v20150123-0452.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/org.eclipse.equinox.app_1.3.200.v20130910-1609.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/org.eclipse.equinox.common_3.6.100.v20120522-1841.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/org.eclipse.equinox.common_3.6.200.v20130402-1505.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/org.eclipse.equinox.preferences_3.5.200.v20140224-1527.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/org.eclipse.equinox.registry_3.5.400.v20140428-1507.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/org.eclipse.m2m.atl.common_3.5.0.v201405260755.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/org.eclipse.m2m.atl.core.emf_3.5.0.v201405260755.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/org.eclipse.m2m.atl.core_3.5.0.v201405260755.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/org.eclipse.m2m.atl.engine.emfvm_3.5.0.v201405260755.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/org.eclipse.ocl.common_1.2.0.v20140610-0641.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/org.eclipse.ocl.ecore_3.3.100.v20140610-0641.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/org.eclipse.ocl_3.4.2.v20140725-2242.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/org.eclipse.osgi.compatibility.plugins_1.0.0.v20131023-1243.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/org.eclipse.osgi.compatibility.state_1.0.1.v20140709-1414.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/org.eclipse.osgi_3.10.2.v20150203-1939.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/org.eclipse.papyrus.sysml_1.0.2.v201502181349.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/org.eclipse.papyrus.uml.diagram.statemachine_1.0.2.v201502181349.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/org.eclipse.papyrus.uml.extensionpoints_1.0.2.v201502181349.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/org.eclipse.ui.ide_3.10.2.v20141118-1227.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/org.eclipse.ui.workbench_3.106.2.v20150204-1030.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/org.eclipse.ui_3.106.1.v20141002-1150.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/org.eclipse.uml2.common_2.0.1.v20150202-0947.jar" sourcepath="C:/Users/dell/AppData/Local/Temp/.org.sf.feeling.decompiler1531098633906/source/org.eclipse.uml2.common.source_2.0.1.v20150202-1531105883710.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/org.eclipse.uml2.types_2.0.0.v20150202-0947.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/org.eclipse.uml2.uml_5.0.2.v20150202-0947.jar" sourcepath="C:/Users/dell/AppData/Local/Temp/.org.sf.feeling.decompiler1540688801910/source/org.eclipse.uml2.uml.source_5.0.2.v20150202-1540782593020.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/org.eclipse.uml2_5.0.0.v20150202-0947.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/runtime_registry_compatibility.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/transformation-lib/xml-apis-1.0.b2.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/学习资料/UML/lib/org.eclipse.emf.ecore.xmi_2.12.0.v20160420-0247.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_171"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/lib/org.eclipse.uml2.uml.resources_5.2.0.v20170227-0935.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/com.google.guava_15.0.0.v201403281430.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/com.xuzhong.transform.acceleo_1.0.2.201803211815.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/com.xuzhong.transform.atl_1.0.1.201803211806.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/com.xuzhong.transform.preprocess_1.0.0.201803211814.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/edu.ufc.femtost.disc.sysml4modelica.codegen_1.0.0.201505270933.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/edu.ufc.femtost.disc.sysml4modelica.modelicametamodel_1.0.0.201505270933.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/edu.ufc.femtost.disc.sysml4modelica.papyrus.profile_1.0.0.201505270933.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/edu.ufc.femtost.disc.sysml4modelica.papyrus.sysml2modelica_1.0.0.201505270933.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/edu.ufc.femtost.disc.sysml4modelica.papyrus.sysml2problem_1.0.0.20171024.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/edu.ufc.femtost.disc.sysml4modelica.papyrus.ui_1.0.0.201505270933.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/edu.ufc.femtost.disc.sysml4modelica.problemmetamodel_1.0.0.201505270933.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/jackson-databind-2.0.5.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/javax.annotation_1.2.0.v201401042248.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/javax.inject_1.0.0.v20091030.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/lpg.runtime.java_2.0.17.v201004271640.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/org.eclipse.acceleo.common_3.5.1.201409021433.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/org.eclipse.acceleo.engine_3.5.1.201409021433.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/org.eclipse.acceleo.model_3.5.1.201409021433.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/org.eclipse.acceleo.profiler_3.5.1.201409021433.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/org.eclipse.core.contenttype_3.4.200.v20140207-1251.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/org.eclipse.core.jobs_3.6.1.v20141014-1248.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/org.eclipse.core.resources_3.9.1.v20140825-1431.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/org.eclipse.core.runtime_3.10.0.v20140318-2214.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/org.eclipse.emf.codegen.ecore_2.10.2.v20150123-0452.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/org.eclipse.emf.codegen_2.10.0.v20150123-0452.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/org.eclipse.emf.common_2.10.1.v20150123-0348.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/org.eclipse.emf.ecore.xmi_2.10.2.v20150123-0348.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/org.eclipse.emf.ecore_2.10.2.v20150123-0348.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/org.eclipse.emf.edit.ui_2.10.2.v20150123-0452.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/org.eclipse.emf.edit_2.10.1.v20150123-0452.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/org.eclipse.emf.mapping.ecore2xml_2.8.0.v20150123-0452.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/org.eclipse.equinox.app_1.3.200.v20130910-1609.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/org.eclipse.equinox.common_3.6.100.v20120522-1841.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/org.eclipse.equinox.common_3.6.200.v20130402-1505.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/org.eclipse.equinox.preferences_3.5.200.v20140224-1527.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/org.eclipse.equinox.registry_3.5.400.v20140428-1507.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/org.eclipse.m2m.atl.common_3.5.0.v201405260755.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/org.eclipse.m2m.atl.core.emf_3.5.0.v201405260755.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/org.eclipse.m2m.atl.core_3.5.0.v201405260755.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/org.eclipse.m2m.atl.engine.emfvm_3.5.0.v201405260755.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/org.eclipse.ocl.common_1.2.0.v20140610-0641.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/org.eclipse.ocl.ecore_3.3.100.v20140610-0641.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/org.eclipse.ocl_3.4.2.v20140725-2242.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/org.eclipse.osgi.compatibility.plugins_1.0.0.v20131023-1243.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/org.eclipse.osgi.compatibility.state_1.0.1.v20140709-1414.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/org.eclipse.osgi_3.10.2.v20150203-1939.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/org.eclipse.papyrus.sysml_1.0.2.v201502181349.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/org.eclipse.papyrus.uml.diagram.statemachine_1.0.2.v201502181349.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/org.eclipse.papyrus.uml.extensionpoints_1.0.2.v201502181349.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/org.eclipse.ui.ide_3.10.2.v20141118-1227.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/org.eclipse.ui.workbench_3.106.2.v20150204-1030.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/org.eclipse.ui_3.106.1.v20141002-1150.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/org.eclipse.uml2.common_2.0.1.v20150202-0947.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/org.eclipse.uml2.types_2.0.0.v20150202-0947.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/org.eclipse.uml2.uml.profile.standard_1.0.0.v20150202-0947.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/org.eclipse.uml2.uml_5.0.2.v20150202-0947.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/org.eclipse.uml2_5.0.0.v20150202-0947.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/runtime_registry_compatibility.jar"/>
+	<classpathentry kind="lib" path="F:/系统工程/EMF/transformation-lib/xml-apis-1.0.b2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
