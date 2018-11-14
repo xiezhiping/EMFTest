@@ -90,7 +90,7 @@ public class emfTest {
 		profile.setNestingPackage(package1);
 		clazz.setPackage(profile);
 		Comment comment =(Comment) UMLFactory.eINSTANCE.create(UMLPackage.Literals.COMMENT);
-		EList eList=UMLPackage.Literals.RELATIONSHIP.getEStructuralFeatures();
+		EList eList=UMLPackage.Literals.GENERALIZATION.getEStructuralFeatures();
 	//	System.out.println(package1.getOwnedStereotypes());
 		comment.setBody("mycomment");
 		//dataType.setVisibility("public");
