@@ -1,0 +1,236 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- This xmi file is optimized for MagicDraw UML. Some references are not saved. -->
+<!-- Change MagicDraw UML environment options property General->.Save Rich XMI -->
+
+<xmi:XMI xmi:version='2.1' xmlns:uml='http://schema.omg.org/spec/UML/2.3' xmlns:xmi='http://schema.omg.org/spec/XMI/2.1' xmlns:ModelElements='http://www.magicdraw.com/schemas/ModelElements.xmi' xmlns:StandardProfileL3='http://schema.omg.org/spec/UML/2.3/StandardProfileL3.xmi' xmlns:Validation_Profile='http://www.magicdraw.com/schemas/Validation_Profile.xmi' xmlns:Requirements='http://www.magicdraw.com/schemas/Requirements.xmi' xmlns:StandardProfileL2='http://schema.omg.org/spec/UML/2.3/StandardProfileL2.xmi' xmlns:Allocations='http://www.magicdraw.com/schemas/Allocations.xmi' xmlns:SysML_Profile='http://www.magicdraw.com/schemas/SysML_Profile.xmi' xmlns:Non_Normative_Extensions='http://www.magicdraw.com/schemas/Non_Normative_Extensions.xmi' xmlns:Ports_Flows='http://www.magicdraw.com/schemas/Ports_Flows.xmi' xmlns:MagicDraw_Profile='http://www.magicdraw.com/schemas/MagicDraw_Profile.xmi' xmlns:DSL_Customization='http://www.magicdraw.com/schemas/DSL_Customization.xmi' xmlns:ConstraintBlocks='http://www.magicdraw.com/schemas/ConstraintBlocks.xmi' xmlns:Activities='http://www.magicdraw.com/schemas/Activities.xmi' xmlns:Matrix_Templates_Profile='http://www.magicdraw.com/schemas/Matrix_Templates_Profile.xmi' xmlns:Blocks='http://www.magicdraw.com/schemas/Blocks.xmi' xmlns:Traceability_customization='http://www.magicdraw.com/schemas/Traceability_customization.xmi' xmlns:customizations_for_traceability='http://www.magicdraw.com/schemas/customizations_for_traceability.xmi' xmlns:additional_stereotypes='http://www.magicdraw.com/schemas/additional_stereotypes.xmi' xmlns:matrix_templates='http://www.magicdraw.com/schemas/matrix_templates.xmi'>
+	<uml:Model xmi:id='eee_1045467100313_135436_1' name='Data' visibility='public'>
+		<packagedElement xmi:type='uml:Package' xmi:id='_16_6_2104050f_1253865185640_239522_4731' name='SI ValueType Library' visibility='public'>
+			<xmi:Extension extender='MagicDraw UML 16.8'>
+				<moduleExtension moduleRoot='::SI ValueType Library'/>
+			</xmi:Extension>
+			<packagedElement xmi:type='uml:DataType' xmi:id='_16_6_2104050f_1253866110015_473554_6695' name='m/s' visibility='public'/>
+			<packagedElement xmi:type='uml:DataType' xmi:id='_16_6_2104050f_1253865297062_670416_4757' name='A' visibility='public'/>
+			<packagedElement xmi:type='uml:DataType' xmi:id='_16_6_2104050f_1253865838234_342285_6462' name='J' visibility='public'/>
+			<packagedElement xmi:type='uml:DataType' xmi:id='_16_6_2104050f_1253865834343_544587_6378' name='˚C' visibility='public'/>
+			<packagedElement xmi:type='uml:DataType' xmi:id='_16_6_2104050f_1253865839390_549605_6483' name='kat' visibility='public'/>
+			<packagedElement xmi:type='uml:DataType' xmi:id='_16_6_2104050f_1253865521234_252677_6222' name='Bq' visibility='public'/>
+			<packagedElement xmi:type='uml:DataType' xmi:id='_16_6_2104050f_1253866209062_933966_6983' name='m²' visibility='public'/>
+			<packagedElement xmi:type='uml:DataType' xmi:id='_16_6_2104050f_1253866112953_623906_6737' name='mol' visibility='public'/>
+			<packagedElement xmi:type='uml:DataType' xmi:id='_16_6_2104050f_1253865833171_464083_6357' name='m³/kg' visibility='public'/>
+			<packagedElement xmi:type='uml:DataType' xmi:id='_16_6_2104050f_1253866196609_4624_6935' name='S' visibility='public'/>
+			<packagedElement xmi:type='uml:DataType' xmi:id='_16_6_2104050f_1253866215312_584989_7007' name='sr' visibility='public'/>
+			<packagedElement xmi:type='uml:DataType' xmi:id='_16_6_2104050f_1253865840515_890551_6504' name='Hz' visibility='public'/>
+			<packagedElement xmi:type='uml:DataType' xmi:id='_16_6_2104050f_1253866222968_221323_7031' name='T' visibility='public'/>
+			<packagedElement xmi:type='uml:DataType' xmi:id='_16_6_2104050f_1253865522593_248625_6243' name='cd' visibility='public'/>
+			<packagedElement xmi:type='uml:DataType' xmi:id='_16_6_2104050f_1253866173703_454170_6863' name='rad' visibility='public'/>
+			<packagedElement xmi:type='uml:DataType' xmi:id='_16_6_2104050f_1253866115796_53784_6779' name='N' visibility='public'/>
+			<packagedElement xmi:type='uml:DataType' xmi:id='_16_6_2104050f_1253865957968_136935_6575' name='kg' visibility='public'/>
+			<packagedElement xmi:type='uml:DataType' xmi:id='_16_6_2104050f_1253865835250_815008_6399' name='F' visibility='public'/>
+			<packagedElement xmi:type='uml:DataType' xmi:id='_16_6_2104050f_1253865960625_344379_6596' name='kg/m³' visibility='public'/>
+			<packagedElement xmi:type='uml:DataType' xmi:id='_16_6_2104050f_1253865523437_876_6264' name='cd/m²' visibility='public'/>
+			<packagedElement xmi:type='uml:DataType' xmi:id='_16_6_2104050f_1253866229171_239601_7055' name='V' visibility='public'/>
+			<packagedElement xmi:type='uml:DataType' xmi:id='_16_6_2104050f_1253865519453_888396_6201' name='A/m²' visibility='public'/>
+			<packagedElement xmi:type='uml:DataType' xmi:id='_16_6_2104050f_1253865524203_478402_6285' name='C' visibility='public'/>
+			<packagedElement xmi:type='uml:DataType' xmi:id='_16_6_2104050f_1253865964703_823615_6659' name='m' visibility='public'/>
+			<packagedElement xmi:type='uml:DataType' xmi:id='_16_6_2104050f_1253866118890_542058_6821' name='Pa' visibility='public'/>
+			<packagedElement xmi:type='uml:DataType' xmi:id='_16_6_2104050f_1253866190015_590196_6911' name='s' visibility='public'/>
+			<packagedElement xmi:type='uml:DataType' xmi:id='_16_6_2104050f_1253866202765_378793_6959' name='Sv' visibility='public'/>
+			<packagedElement xmi:type='uml:DataType' xmi:id='_16_6_2104050f_1253866258906_844168_7103' name='Wb' visibility='public'/>
+			<packagedElement xmi:type='uml:DataType' xmi:id='_16_6_2104050f_1253866117390_114480_6800' name='Ω' visibility='public'/>
+			<packagedElement xmi:type='uml:DataType' xmi:id='_16_6_2104050f_1253865836343_263823_6420' name='H' visibility='public'/>
+			<packagedElement xmi:type='uml:DataType' xmi:id='_16_6_2104050f_1253865962046_891350_6617' name='lm' visibility='public'/>
+			<packagedElement xmi:type='uml:DataType' xmi:id='_16_6_2104050f_1253865414453_562584_6170' name='A/m' visibility='public'/>
+			<packagedElement xmi:type='uml:DataType' xmi:id='_16_6_2104050f_1253866114390_861485_6758' name='mol/m³' visibility='public'/>
+			<packagedElement xmi:type='uml:DataType' xmi:id='_16_6_2104050f_1253865837250_380142_6441' name='Gy' visibility='public'/>
+			<packagedElement xmi:type='uml:DataType' xmi:id='_16_6_2104050f_1253866183796_441605_6887' name='mˉ ¹' visibility='public'/>
+			<packagedElement xmi:type='uml:DataType' xmi:id='_16_6_2104050f_1253865841765_665979_6525' name='K' visibility='public'/>
+			<packagedElement xmi:type='uml:DataType' xmi:id='_16_6_2104050f_1253866251015_714433_7079' name='W' visibility='public'/>
+			<packagedElement xmi:type='uml:DataType' xmi:id='_16_6_2104050f_1253866111500_367563_6716' name='m/s²' visibility='public'/>
+			<packagedElement xmi:type='uml:DataType' xmi:id='_16_6_2104050f_1253865963328_346522_6638' name='lx' visibility='public'/>
+			<packagedElement xmi:type='uml:DataType' xmi:id='_16_6_2104050f_1253865525312_896795_6306' name='m³' visibility='public'/>
+		</packagedElement>
+		<packagedElement xmi:type='uml:Package' href='UML_Standard_Profile.xml#magicdraw_uml_standard_profile_v_0001'>
+			<xmi:Extension extender='MagicDraw UML 16.8'>
+				<referenceExtension referentPath='UML Standard Profile' referentType='Package'/>
+			</xmi:Extension>
+		</packagedElement>
+		<packagedElement xmi:type='uml:Profile' href='Matrix_Templates_Profile.xml#_10_5_8f90291_1141412747796_552778_939'>
+			<xmi:Extension extender='MagicDraw UML 16.8'>
+				<referenceExtension referentPath='Matrix Templates Profile' referentType='Profile'/>
+			</xmi:Extension>
+		</packagedElement>
+		<packagedElement xmi:type='uml:Profile' href='SysML Profile.mdzip#_11_5EAPbeta_be00301_1147434586638_637562_1900'>
+			<xmi:Extension extender='MagicDraw UML 16.8'>
+				<referenceExtension referentPath='SysML Profile' referentType='Profile'/>
+			</xmi:Extension>
+		</packagedElement>
+		<packagedElement xmi:type='uml:Package' href='SIDefinitions.mdzip#_16_5_1_12c903cb_1245419344406_358879_5663'>
+			<xmi:Extension extender='MagicDraw UML 16.8'>
+				<referenceExtension referentPath='SIDefinitions' referentType='Package'/>
+			</xmi:Extension>
+		</packagedElement>
+	</uml:Model>
+	<Blocks:ValueType xmi:id='_16_6_2104050f_1253865835250_351677_6400' base_DataType='_16_6_2104050f_1253865835250_815008_6399'>
+		<quantityKind xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_2_ff3038a_1245880281866_255364_7655'/>
+		<unit xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_2_ff3038a_1245880193909_251321_7619'/>
+	</Blocks:ValueType>
+	<Blocks:ValueType xmi:id='_16_6_2104050f_1253866251015_364536_7080' base_DataType='_16_6_2104050f_1253866251015_714433_7079'>
+		<quantityKind xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_ff3038a_1245653173406_317868_6070'/>
+		<unit xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_ff3038a_1245653032256_787950_6009'/>
+	</Blocks:ValueType>
+	<Blocks:ValueType xmi:id='_16_6_2104050f_1253866183796_7511_6888' base_DataType='_16_6_2104050f_1253866183796_441605_6887'>
+		<quantityKind xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_8beta_2104050f_1262941875423_288381_6015'/>
+		<unit xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_ff3038a_1245619674532_995912_4455'/>
+	</Blocks:ValueType>
+	<Blocks:ValueType xmi:id='_16_6_2104050f_1253865963328_448831_6639' base_DataType='_16_6_2104050f_1253865963328_346522_6638'>
+		<quantityKind xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_2_ff3038a_1245912778038_470552_10792'/>
+		<unit xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_2_ff3038a_1245912660639_636012_10756'/>
+	</Blocks:ValueType>
+	<Blocks:ValueType xmi:id='_16_6_2104050f_1253866190015_941638_6912' base_DataType='_16_6_2104050f_1253866190015_590196_6911'>
+		<quantityKind xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_12c903cb_1245421159796_463381_6045'/>
+		<unit xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_ff3038a_1245558801890_74944_4509'/>
+	</Blocks:ValueType>
+	<Blocks:ValueType xmi:id='_16_6_2104050f_1253865523437_959427_6265' base_DataType='_16_6_2104050f_1253865523437_876_6264'>
+		<quantityKind xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_ff3038a_1245622386711_471754_5572'/>
+		<unit xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_ff3038a_1245622365666_778133_5560'/>
+	</Blocks:ValueType>
+	<Blocks:ValueType xmi:id='_16_6_2104050f_1253866202765_280394_6960' base_DataType='_16_6_2104050f_1253866202765_378793_6959'>
+		<quantityKind xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_2_ff3038a_1245915652619_433793_7380'/>
+		<unit xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_2_ff3038a_1245915277433_125892_7344'/>
+	</Blocks:ValueType>
+	<Blocks:ValueType xmi:id='_16_6_2104050f_1253866114390_197295_6759' base_DataType='_16_6_2104050f_1253866114390_861485_6758'>
+		<quantityKind xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_ff3038a_1245622041717_945809_5322'/>
+		<unit xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_ff3038a_1245621843706_548123_5253'/>
+	</Blocks:ValueType>
+	<Blocks:ValueType xmi:id='_16_6_2104050f_1253865524203_214540_6286' base_DataType='_16_6_2104050f_1253865524203_478402_6285'>
+		<quantityKind xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_2_ff3038a_1245876548714_134472_6479'/>
+		<unit xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_2_ff3038a_1245876355489_965842_6415'/>
+	</Blocks:ValueType>
+	<Blocks:ValueType xmi:id='_16_6_2104050f_1253866196609_412875_6936' base_DataType='_16_6_2104050f_1253866196609_4624_6935'>
+		<quantityKind xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_2_ff3038a_1245881759775_329691_8290'/>
+		<unit xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_2_ff3038a_1245881602473_580919_8246'/>
+	</Blocks:ValueType>
+	<Blocks:ValueType xmi:id='_16_6_2104050f_1253865297062_972274_4758' base_DataType='_16_6_2104050f_1253865297062_670416_4757'>
+		<quantityKind xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_ff3038a_1245561719620_187312_4893'/>
+		<unit xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_ff3038a_1245558816590_642897_4521'/>
+	</Blocks:ValueType>
+	<Blocks:ValueType xmi:id='_16_6_2104050f_1253865519453_451697_6202' base_DataType='_16_6_2104050f_1253865519453_888396_6201'>
+		<quantityKind xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_ff3038a_1245621150259_658061_5095'/>
+		<unit xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_ff3038a_1245620309464_598579_4820'/>
+	</Blocks:ValueType>
+	<Blocks:ValueType xmi:id='_16_6_2104050f_1253866222968_325972_7032' base_DataType='_16_6_2104050f_1253866222968_221323_7031'>
+		<quantityKind xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_2_ff3038a_1245907014797_925547_6254'/>
+		<unit xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_2_ff3038a_1245906945398_58518_6216'/>
+	</Blocks:ValueType>
+	<Blocks:ValueType xmi:id='_16_6_2104050f_1253865837250_888788_6442' base_DataType='_16_6_2104050f_1253865837250_380142_6441'>
+		<quantityKind xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_2_ff3038a_1245914701940_121613_7107'/>
+		<unit xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_2_ff3038a_1245913960399_139072_7071'/>
+	</Blocks:ValueType>
+	<Blocks:ValueType xmi:id='_16_6_2104050f_1253865522593_488162_6244' base_DataType='_16_6_2104050f_1253865522593_248625_6243'>
+		<quantityKind xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_ff3038a_1245562367854_934507_4975'/>
+		<unit xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_ff3038a_1245558862128_467276_4557'/>
+	</Blocks:ValueType>
+	<Blocks:ValueType xmi:id='_16_6_2104050f_1253866229171_426302_7056' base_DataType='_16_6_2104050f_1253866229171_239601_7055'>
+		<quantityKind xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_2_ff3038a_1245879016598_72888_7060'/>
+		<unit xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_2_ff3038a_1245879251502_778810_7155'/>
+	</Blocks:ValueType>
+	<Blocks:ValueType xmi:id='_16_6_2104050f_1253866117390_531404_6801' base_DataType='_16_6_2104050f_1253866117390_114480_6800'>
+		<quantityKind xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_2_ff3038a_1245904955822_831526_6203'/>
+		<unit xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_2_ff3038a_1245905095808_65656_6261'/>
+	</Blocks:ValueType>
+	<Blocks:ValueType xmi:id='_16_6_2104050f_1253866118890_983561_6822' base_DataType='_16_6_2104050f_1253866118890_542058_6821'>
+		<quantityKind xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_ff3038a_1245649125606_277898_7819'/>
+		<unit xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_ff3038a_1245649035695_379354_7789'/>
+	</Blocks:ValueType>
+	<Blocks:ValueType xmi:id='_16_6_2104050f_1253866112953_833622_6738' base_DataType='_16_6_2104050f_1253866112953_623906_6737'>
+		<quantityKind xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_ff3038a_1245562275118_72899_4951'/>
+		<unit xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_ff3038a_1245558843953_788987_4545'/>
+	</Blocks:ValueType>
+	<MagicDraw_Profile:DiagramInfo xmi:id='_16_6_2104050f_1253865285500_857586_4745' base_Diagram='_16_6_2104050f_1253865285500_160472_4733' Creation_date='9/25/09 2:54 PM' Modification_date='9/25/09 2:54 PM' Author='pakornpong_p'/>
+	<MagicDraw_Profile:auxiliaryResource xmi:id='_16_6_2104050f_1253865201687_956482_4732' base_Package='_16_6_2104050f_1253865185640_239522_4731'/>
+	<StandardProfileL2:modelLibrary xmi:id='_16_6_2104050f_1253865201687_956482_4732application1' base_Package='_16_6_2104050f_1253865185640_239522_4731'/>
+	<Blocks:ValueType xmi:id='_16_6_2104050f_1253865525312_253822_6307' base_DataType='_16_6_2104050f_1253865525312_896795_6306'>
+		<quantityKind xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_ff3038a_1245574723397_963139_5135'/>
+		<unit xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_ff3038a_1245574101728_24418_5022'/>
+	</Blocks:ValueType>
+	<Blocks:ValueType xmi:id='_16_6_2104050f_1253865836343_85378_6421' base_DataType='_16_6_2104050f_1253865836343_263823_6420'>
+		<quantityKind xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_2_ff3038a_1245907353183_604769_6610'/>
+		<unit xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_2_ff3038a_1245907250646_743066_6566'/>
+	</Blocks:ValueType>
+	<Blocks:ValueType xmi:id='_16_6_2104050f_1253865964703_393505_6660' base_DataType='_16_6_2104050f_1253865964703_823615_6659'>
+		<quantityKind xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_12c903cb_1245421062500_889852_6027'/>
+		<unit xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_12c903cb_1245421859000_233075_6259'/>
+	</Blocks:ValueType>
+	<Blocks:ValueType xmi:id='_16_6_2104050f_1253865834343_937877_6379' base_DataType='_16_6_2104050f_1253865834343_544587_6378'>
+		<quantityKind xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_2_ff3038a_1245910676883_58178_9811'/>
+		<unit xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_2_ff3038a_1245910546708_321035_9774'/>
+	</Blocks:ValueType>
+	<Blocks:ValueType xmi:id='_16_6_2104050f_1253865414453_916159_6171' base_DataType='_16_6_2104050f_1253865414453_562584_6170'>
+		<quantityKind xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_ff3038a_1245620876973_617416_5050'/>
+		<unit xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_ff3038a_1245620345101_24980_4832'/>
+	</Blocks:ValueType>
+	<Blocks:ValueType xmi:id='_16_6_2104050f_1253865962046_36702_6618' base_DataType='_16_6_2104050f_1253865962046_891350_6617'>
+		<quantityKind xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_2_ff3038a_1245912007076_777515_10208'/>
+		<unit xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_2_ff3038a_1245911832553_560650_10144'/>
+	</Blocks:ValueType>
+	<Blocks:ValueType xmi:id='_16_6_2104050f_1253865521234_20202_6223' base_DataType='_16_6_2104050f_1253865521234_252677_6222'>
+		<quantityKind xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_2_ff3038a_1245913337045_775596_5568'/>
+		<unit xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_2_ff3038a_1245913235108_646371_5543'/>
+	</Blocks:ValueType>
+	<Blocks:ValueType xmi:id='_16_6_2104050f_1253866115796_707055_6780' base_DataType='_16_6_2104050f_1253866115796_53784_6779'>
+		<quantityKind xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_ff3038a_1245648213998_639958_7320'/>
+		<unit xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_ff3038a_1245648094949_479814_7276'/>
+	</Blocks:ValueType>
+	<Blocks:ValueType xmi:id='_16_6_2104050f_1253865840515_851729_6505' base_DataType='_16_6_2104050f_1253865840515_890551_6504'>
+		<quantityKind xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_ff3038a_1245635934912_736290_6808'/>
+		<unit xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_ff3038a_1245635839350_566315_6772'/>
+	</Blocks:ValueType>
+	<Blocks:ValueType xmi:id='_16_6_2104050f_1253866173703_124166_6864' base_DataType='_16_6_2104050f_1253866173703_454170_6863'>
+		<quantityKind xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_ff3038a_1245631114039_195948_5941'/>
+		<unit xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_ff3038a_1245630854252_4923_4927'/>
+	</Blocks:ValueType>
+	<Blocks:ValueType xmi:id='_16_6_2104050f_1253866215312_156927_7008' base_DataType='_16_6_2104050f_1253866215312_584989_7007'>
+		<quantityKind xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_ff3038a_1245631823212_993011_6476'/>
+		<unit xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_ff3038a_1245631690713_635911_6406'/>
+	</Blocks:ValueType>
+	<Blocks:ValueType xmi:id='_16_6_2104050f_1253866209062_908909_6984' base_DataType='_16_6_2104050f_1253866209062_933966_6983'>
+		<quantityKind xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_ff3038a_1245574704422_315574_5123'/>
+		<unit xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_ff3038a_1245574035803_816953_5010'/>
+	</Blocks:ValueType>
+	<Blocks:ValueType xmi:id='_16_6_2104050f_1253865957968_966463_6576' base_DataType='_16_6_2104050f_1253865957968_136935_6575'>
+		<quantityKind xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_ff3038a_1245560498149_315686_4721'/>
+		<unit xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_ff3038a_1245558746041_85423_4497'/>
+	</Blocks:ValueType>
+	<Blocks:ValueType xmi:id='_16_6_2104050f_1253865960625_989205_6597' base_DataType='_16_6_2104050f_1253865960625_344379_6596'>
+		<quantityKind xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_ff3038a_1245577283988_935989_5693'/>
+		<unit xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_ff3038a_1245576305098_969824_5493'/>
+	</Blocks:ValueType>
+	<Blocks:ValueType xmi:id='_16_6_2104050f_1253866111500_961375_6717' base_DataType='_16_6_2104050f_1253866111500_367563_6716'>
+		<quantityKind xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_ff3038a_1245572732537_166833_4656'/>
+		<unit xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_ff3038a_1245571990117_239543_4489'/>
+	</Blocks:ValueType>
+	<Blocks:ValueType xmi:id='_16_6_2104050f_1253866258906_908711_7104' base_DataType='_16_6_2104050f_1253866258906_844168_7103'>
+		<quantityKind xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_2_ff3038a_1245905611730_950832_6718'/>
+		<unit xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_2_ff3038a_1245905540968_877283_6682'/>
+	</Blocks:ValueType>
+	<Blocks:ValueType xmi:id='_16_6_2104050f_1253866110015_771058_6696' base_DataType='_16_6_2104050f_1253866110015_473554_6695'>
+		<quantityKind xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_12c903cb_1245421408843_321338_6105'/>
+		<unit xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_ff3038a_1245566079651_244134_4218'/>
+	</Blocks:ValueType>
+	<Blocks:ValueType xmi:id='_16_6_2104050f_1253865839390_434838_6484' base_DataType='_16_6_2104050f_1253865839390_549605_6483'>
+		<quantityKind xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_2_ff3038a_1245916961919_68756_7635'/>
+		<unit xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_2_ff3038a_1245916884571_139193_7599'/>
+	</Blocks:ValueType>
+	<Blocks:ValueType xmi:id='_16_6_2104050f_1253865838234_536529_6463' base_DataType='_16_6_2104050f_1253865838234_342285_6462'>
+		<quantityKind xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_ff3038a_1245651380551_175464_8207'/>
+		<unit xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_ff3038a_1245651129379_396773_8177'/>
+	</Blocks:ValueType>
+	<Blocks:ValueType xmi:id='_16_6_2104050f_1253865841765_720047_6526' base_DataType='_16_6_2104050f_1253865841765_665979_6525'>
+		<quantityKind xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_ff3038a_1245561946382_220901_4922'/>
+		<unit xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_ff3038a_1245558834605_618778_4533'/>
+	</Blocks:ValueType>
+	<Blocks:ValueType xmi:id='_16_6_2104050f_1253865833171_798558_6358' base_DataType='_16_6_2104050f_1253865833171_464083_6357'>
+		<quantityKind xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_ff3038a_1245577314375_791820_5705'/>
+		<unit xmi:type='uml:InstanceSpecification' href='SIDefinitions.mdzip#_16_5_1_ff3038a_1245576376484_222081_5505'/>
+	</Blocks:ValueType>
+</xmi:XMI>
