@@ -28,7 +28,7 @@ import org.eclipse.uml2.uml.Type;
 import org.eclipse.uml2.uml.UMLFactory;
 import org.eclipse.uml2.uml.UMLPackage;
 import org.eclipse.uml2.uml.internal.impl.CommentImpl;
-public class emfTest {
+public class EMFTest {
 
 	private static final Type String = null;
 	private static final EList<Type> arg2 = null;
@@ -90,7 +90,7 @@ public class emfTest {
 		profile.setNestingPackage(package1);
 		clazz.setPackage(profile);
 		Comment comment =(Comment) UMLFactory.eINSTANCE.create(UMLPackage.Literals.COMMENT);
-		EList eList=UMLPackage.Literals.GENERALIZATION.getEStructuralFeatures();
+		EList eList=UMLPackage.Literals.PACKAGE.getEStructuralFeatures();
 	//	System.out.println(package1.getOwnedStereotypes());
 		comment.setBody("mycomment");
 		//dataType.setVisibility("public");
